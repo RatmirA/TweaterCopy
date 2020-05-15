@@ -1,2 +1,2 @@
-# sweater
-Spring Boot learning
+# TweaterCopy
+Spring Boot Example ;)
